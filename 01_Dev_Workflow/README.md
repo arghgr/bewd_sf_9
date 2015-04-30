@@ -37,5 +37,5 @@ Times below are an approximation
 ###Homework
 
 *	Review bash and git commands.
-
 *	Read Chapters 1 thru 7 of ``Learn to Program`` (Electronic copy is available on Schoology)
+*	Bonus (and FUN!) Command Line Murder Mystery! Clone this repo and start by reading the instructions. It's OKAY to read the cheatsheet - it's there to help. https://github.com/veltman/clmystery
