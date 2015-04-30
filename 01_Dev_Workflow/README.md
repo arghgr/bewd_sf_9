@@ -28,10 +28,10 @@ Times below are an approximation
 
 
 ####Links to Ruby Docs 
-  Integer - http://ruby-doc.org/core-2.2.1/Integer.html
-  String - http://ruby-doc.org/core-2.2.1/String.html
-  Array - http://ruby-doc.org/core-2.2.1/Array.html
-  Hash - http://ruby-doc.org/core-2.2.1/Hash.html
+  * Integer - http://ruby-doc.org/core-2.2.1/Integer.html
+  * String - http://ruby-doc.org/core-2.2.1/String.html
+  * Array - http://ruby-doc.org/core-2.2.1/Array.html
+  * Hash - http://ruby-doc.org/core-2.2.1/Hash.html
 
 
 ###Homework
