@@ -14,8 +14,6 @@ def compare_two_numbers
   end
 end
 
-### #1
-
 def compare_to_six_hundred
   puts "Is 8 x 77 greater than 600?\n"
   result = 8 * 77
@@ -25,6 +23,19 @@ def compare_to_six_hundred
     puts "Nope, #{result} is < than 600"
   end
 end
+
+
+def method_two
+  puts "Is 1 equal to (7 - 6)?"
+  if 1 == 7 - 6
+    puts 'yes'
+  else
+    puts 'no'
+  end
+end
+
+
+
 
 ### #2
 def compare_after_subtracting
@@ -81,6 +92,7 @@ def include_another_word
 end
 
 puts "***********************METHODS BEING CALLED*************************************"
+
 #call each method
 compare_two_numbers
 puts "****next method ***"
