@@ -25,6 +25,7 @@ Times below are an approximation
 
 ###Homework:
 * Finish up the FizzBuzz exercise
+*	Complete Teddit Conditional exercise (see starter_code folder)
 
 #####Bonus resources to make your coding life easier:
 * Interactive Try Git - https://www.codeschool.com/courses/try-git
