@@ -22,3 +22,13 @@ Times below are an approximation
 | 45 min | Variables & Methods | |
 | 15 min | Conditionals |  |
 | 30 min | Lab Time | Happy Coding :) |
+
+###Homework:
+* Finish up the FizzBuzz exercise
+
+#####Bonus resources to make your coding life easier:
+* Interactive Try Git - https://www.codeschool.com/courses/try-git
+* [Recommended] Ugly pry got you down? Check out https://github.com/kyrylo/pry-theme
+    * `gem install pry-theme`
+    * You might have to create the .pryrc file with `atom ~/.pryrc`
+    * Pick a theme you like, and add it to your .pryrc file with `Pry.config.theme = "theme-name"`
