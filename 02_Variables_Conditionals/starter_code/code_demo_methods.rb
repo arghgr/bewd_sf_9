@@ -1,13 +1,13 @@
 #Code Demo Methods: Student's File
-#TIME: ~ 45 min
-# => While you instructor code these methods in irb you should take notes here.
+#TIME: ~ 30 min
+# => While you instructor code these methods in  pry (or irb) you should take notes here.
 
 
-
-#1 - Let's say we wanted to perform the task of multiplying 22 by 44  
+#1 - Let's say we wanted to perform the task of multiplying 22 by 44
 ###########
 ###########
-	
+
+
 #2 - Great, what if we wanted to multiply 22*4 again. If we had to type that out each time, it would be inefficient
 # So, let's try and save that code to a method...
 ###########
@@ -65,5 +65,3 @@
 
 	# Woah. Integer has a method on it called 'to_s' that returns the string
 	# version of the number. Perhaps this will be useful some day. . .
-
-

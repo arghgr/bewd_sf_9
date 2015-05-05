@@ -1,7 +1,7 @@
 ![BEWD_Logo](../assets/BEWD_Logo.png)
 
 
-##Lesson 3 - Variables & Conditional Logic
+##Lesson 2 - Variables & Conditional Logic
 ========
 
 ###Learning Objectives

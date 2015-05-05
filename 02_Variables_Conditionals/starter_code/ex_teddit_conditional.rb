@@ -1,7 +1,8 @@
-# Teddit Contionals - Starter Code.
+#TIME: ~ 30 min
+# Teddit Condtionals - Starter Code.
 
 # Let's add a new Teddit feature. Upvotes!
-# Complete the application below. 
+# Complete the application below.
 # Where you see comments (lines that begin with #) replace it with code so that the program works.
 
 def get_input
