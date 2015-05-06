@@ -27,7 +27,7 @@ Lesson Topics WILL change as the course progresses.
 | 14 | Essentials| Final Project Kickoff  |  Wed. 06/17/15|
 | 15 | Elective| API Integration - Messaging & Project Lab | Mon. 06/22/15|
 | 16 | Elective| API Integration - Image Upload & Project Lab| Wed. 06/24/15|
-| 17 | Elective| API Integration - Stripe & Project Lab | Mon. 06/29/15|
-| 18 |Project Lab | API Integration - Adv | Wed. 7/1/15|
+| 17 | Elective| API Integration - Project Lab | Mon. 06/29/15|
+| 18 |Project Lab | API Integration - Advanced | Wed. 7/1/15|
 | 19 | Project Lab | Heroku Deployment | Mon. 7/06/15|
-| 20 | Project Lab | Final Project Presentations !!!!| Wed. 7/09/15|
+| 20 | Project Lab | Final Project Presentations !!!!| Wed. 7/08/15|
