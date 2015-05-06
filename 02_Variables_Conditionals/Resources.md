@@ -40,7 +40,7 @@ __Conditionals Operators__
 | != |  Not Equal | a != b | true  |
 | >  | Greater than | a > b | true  |
 | < | Less than |a < b | true  |
-| >= |Greater than  or equal to | a <= b | false |
+| >= |Greater than  or equal to | a >= b | false |
 | <= |Less than or equal to | a <= b | false |
 | <=> |Same value? return 0, less than? return -1, greater than? return 1 | a <=> b | 1 |
 | .eql? | same value and same type?| 1.eql?(1.0)| false |
