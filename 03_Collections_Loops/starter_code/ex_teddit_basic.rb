@@ -11,6 +11,3 @@
 #2 -  Write a conditional that determines upvotes' based on the category
 #3 -  Save every story to a collection (each story should be a hash)
 #4 -  Print each stories title, category and upvotes to the screen
-
-def get_story(title, category)
-end
