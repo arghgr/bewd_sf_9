@@ -25,8 +25,8 @@ Times below are an approximation
 
 
 
-###Homework - Due Wednesday May 13th
+###Homework 
 
 -	Learn to Program - Read Chapter's 7 thru 12
-- Well Grounded Rubyist - Read Chapter's 9 & 10 (7 & 8 are optional)
+- Well Grounded Rubyist - Read Chapter's 9 - 10
 - Review & Complete teddit_basic, ex_loop and reverse_it (on your own)
