@@ -13,7 +13,7 @@
 | Time        | Topic| GA Materials| Comments |
 | ------------- |:-------------|:-------------------|:-------------------|
 | 15 min | Homework Repo | Setup your homework repo & make your 1st pull request|
-| 15 min | Collections & Hashes  |  Review of Collections & Hashes with pry |
+| 10 min | Collections & Hashes  |  Review of Collections & Hashes with pry |
 | 30 min | Quick Fire |Call ME! | This is a recap exercise that allows students to test their knowledge of ruby and programming thus far. |
 
 | 30 min | APIs | Teddit with API Code Demo  <br> | A practical example of loops and collections using the reddit api. |
