@@ -15,8 +15,7 @@ end
 
 #create a contact using the hash syntax
 def create_contact(name, telephone, email)
-  contact = {}
-  contact[:kisha] = {name: name, telephone: telephone, email: email}
+  contact = {name: name, telephone: telephone, email: email}
 end
 
 #iterate through all contacts. Print THE name, email & telephone using iterpolation #{this_syntax_is interpolation}
