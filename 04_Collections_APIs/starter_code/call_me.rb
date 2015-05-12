@@ -34,6 +34,3 @@ contacts = []
 #Examples. Only directional you can do this whatever way you like
 contact = create_contact("kisha", "555-555-5555", "kisha@example.com")
 add_contact(contacts, contact)
-
-contact = create_contact("jane", "222-222-2222", "jane@example.com")
-add_contact(contacts, contact)
