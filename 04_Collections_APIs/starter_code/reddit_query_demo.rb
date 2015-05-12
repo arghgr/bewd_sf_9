@@ -4,7 +4,7 @@ require 'rest-client'
 require 'json'
 
 #Make the HTTP request:
-reddit_data = RestClient.get("http://www.reddit.com/r/aww/.json")
+reddit_data = RestClient.get("http://www.reddit.com/.json")
 
 # parse the stuff we care about: response.body
 results = JSON.parse(reddit_data.body)
@@ -13,6 +13,8 @@ results = JSON.parse(reddit_data.body)
 results["data"]["children"][0]["data"]["title"]
 
 #Print out the title of each post
-results["data"]["children"].each do |post|
-	puts post["data"]["title"]
+reddit_posts = results["data"]["children"]
+reddit_posts.each do |post|
+	puts "Title: #{post["data"]["title"]}. Upvotes: #{post["data"]["ups"]}. Category: #{post["data"]["subreddit"]}"
+	puts "*" * 10
 end
