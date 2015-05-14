@@ -1,26 +1,23 @@
-#CODE ALONG & LAB WORK 
+#CODE ALONG & LAB WORK
 require 'pry'
 require 'pry-byebug'
- 
+
 #State & Object Factory: factory that creates and instiantes the robots
-#Behavior: Collection of class methods, instance methods, instance variables, local variables, constants etc., 
- 
+#Behavior: Collection of class methods, instance methods, instance variables, local variables, constants etc.,
+
 class Robot
 
   #getter && setter methods for each attribute
   attr_accessor  :name, :type, :origin
 
-  #instance variables are available through the class. @name is an instance variable 
+  #instance variables are available through the class. @name is an instance variable
   def initialize(name, type, origin)
-    @name = name
-    @type = type
-    @origin = origin 
   end
 
   #instance method
   def fly
   end
- 
+
   def laser_master
   end
 
@@ -34,9 +31,9 @@ class Robot
 
   def self.random_robot_maker
   end
- 
+
   private
-   
+
   #usually used within instance && class methods.
   def add_wings_and_take_off
   end
@@ -45,4 +42,3 @@ class Robot
   end
 
 end
-
