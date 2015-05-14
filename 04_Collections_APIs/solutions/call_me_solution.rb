@@ -18,12 +18,12 @@ def create_contact(name, telephone, email)
   contact = {name: name, telephone: telephone, email: email}
 end
 
-#iterate through all contacts. Print THE name, email & telephone using iterpolation #{this_syntax_is interpolation}
+
 def contact_log(contacts)
   contacts_count(contacts)
-  puts "Here is a list of names ... \n"
+  puts "Here is a list... \n"
   contacts.each do |contact|
-    puts "#{contact[:name].capitalize}. Email is #{contact[:email]}. Telephone is #{contact[:telephone]}"
+    puts "Name: #{contact[:name]}. Tele: #{contact[:telephone]}. Email: #{contact[:email]}"
   end
 end
 
