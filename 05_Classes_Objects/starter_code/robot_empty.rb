@@ -10,7 +10,8 @@ class Robot
   #getter && setter methods for each attribute
   attr_accessor  :name, :type, :origin
 
-  #instance variables are available through the class. @name is an instance variable
+  #instance variables are available through the class -> @name is an instance variable
+
   def initialize(name, type, origin)
   end
 
