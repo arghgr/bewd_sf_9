@@ -5,12 +5,6 @@ class Apartment
   attr_accessor :name, :sqft, :bedrooms, :bathrooms, :renter, :rent
 
   def initialize(name,sqft,bedrooms,bathrooms)
-    @name = name
-    @sqft = sqft
-    @bedrooms = bedrooms
-    @bathrooms = bathrooms
-    @renter = nil
-    @rent = nil
   end
 
 
@@ -19,8 +13,5 @@ class Apartment
   end
 
    def is_occupied?
-    @renter != nil
   end
 end
-
-

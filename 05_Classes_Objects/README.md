@@ -14,19 +14,14 @@
 
 | Time        | Topic| GA ICLS| Comments |
 | ------------- |:-------------|:-------------------|:-------------------|
-| 30 min | Objects & Classes | Creating Objects & Students |
+| 60 min | Objects & Classes | Intro to Classes & Objects |
 
-| 90 min| Objects & Classes | Code Along: Rise of the Robots 
+| 90 min| Objects & Classes | Code Along: Rise of the Robots|
 
-| 60 min | Lab Time | Apartment Objects| Complete and review answers to Apartment objects and start Secret Number. There will be additional lab time for students to complete Secret Number next lesson. Alternatively you can assign for homework, due next class.|
-
+|30 min| Rise of the Robots - Lab Time|
 
 
 ###Homework
 
--  Extension for teddit_api_news.rb (Basic teddit due today!)
--  Apartment Objects & Secret Number exercise (due next Monday)
-
-
-
-
+-  Read Chapters 2 thru 6 of Well Grounded Rubyist
+-  Complete 'ex_apartment_objects' exercise (this is due on Monday)
