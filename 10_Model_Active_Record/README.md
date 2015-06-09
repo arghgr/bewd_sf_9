@@ -16,17 +16,12 @@
 
 
 | Time | Topic | GA ICLS | Comments |
-******
-
+| ---- | ----- | ------- | -------- |
 | 20 min | Review | Quiz | Students create the controller and index view for the movie app|
-
 | 30 min | Models | Code Demo  | Add a model |
-
 | 30 min | Migrations | Code Along | Update table with a migration|
+| 90 min | Lab Time | Students work on schema design and kick start the build out of the movie_app|  |
 
-| 90 min | Lab Time | | Students work on schema design and kick start the build out of the movie_app|
-
-*******
 
 ###Homework
 
